@@ -1,5 +1,5 @@
-def log_name():
+def user_name():
     name = input("Enter your name: ")
     print(f"your name is {name}")
 
-log_name()
+user_name()
