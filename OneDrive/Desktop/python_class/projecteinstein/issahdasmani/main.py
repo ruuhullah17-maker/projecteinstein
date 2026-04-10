@@ -7,6 +7,7 @@ def whileloop():
     while n<5:
         print("meow")
         n+=1
+<<<<<<< HEAD
 whileloop()
 
 
