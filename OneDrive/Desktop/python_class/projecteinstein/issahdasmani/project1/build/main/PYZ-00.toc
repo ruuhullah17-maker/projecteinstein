@@ -508,6 +508,10 @@
    'C:\\Users\\HP '
    'USER\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\response.py',
    'PYMODULE'),
+  ('utils',
+   'C:\\Users\\HP '
+   'USER\\OneDrive\\Desktop\\python_class\\projecteinstein\\issahdasmani\\project1\\utils.py',
+   'PYMODULE'),
   ('zipfile',
    'C:\\Users\\HP '
    'USER\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\__init__.py',
